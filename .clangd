@@ -1,0 +1,2 @@
+CompileFlags:                           # Tweak the parse settings
+  Remove: [-fvar-tracking-assignments]  # strip all other warning-related flags

@@ -1,0 +1,12 @@
+README.shell
+README.threads
+README.userprog
+README.vm
+README.filesys
+programming_log.*
+pair_programming_log.txt
+shell_design.txt
+*.o
+*.d
+*.bin
+*.img
